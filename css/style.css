@@ -17,7 +17,7 @@ canvas {
 }
 
 #pic {
-    width: 30%;
+    width: 20%;
     height: auto;
     min-height: 250px;
     min-width: 250px;
@@ -26,10 +26,6 @@ canvas {
 div#maincontent {
     width: auto;
     height: auto;
-}
-
-.skills {
-    font-size: 200%;
 }
 
 hr.star-light:after,
@@ -41,7 +37,12 @@ hr.star-light:after {
     background-color: #001c33;
 }
 
+
 /*
+#firstinfo {
+    max-height: 30%;
+}
+
 #pic {
     width: 30%;
     height: auto;
